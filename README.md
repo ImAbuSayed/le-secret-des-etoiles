@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-secret-des-etoiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Secret Des Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-des-etoiles/) |
+| **Get License** | [Get a Licensing Quote for Le Secret Des Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-des-etoiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de Paris, je cherche ton regard
+> La nuit nous appartient, babe, it's never too dark
+> Ton parfum de luxe, c'est une douce mélodie
+> On a toute la nuit, let's make history
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
