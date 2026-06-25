@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-secret-des-etoiles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Secret Des Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-des-etoiles/) |
+| **Get License** | [License this song: Le Secret Des Étoiles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-des-etoiles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7d2d7cb35ef6c38f9fae329103887e4aff9cd0963a4d93d018fd67db028418d1` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
